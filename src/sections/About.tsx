@@ -45,7 +45,7 @@ export function About() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent z-10" />
 
               <Image
-                src="/profile.png"
+                src="https://i.pinimg.com/736x/38/b1/7c/38b17c764e6f9738a360913b16d88765.jpg"
                 alt="Ameen Khan"
                 width={800}
                 height={1200}
