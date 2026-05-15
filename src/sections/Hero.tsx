@@ -19,7 +19,7 @@ export function Hero() {
               <div className="absolute inset-0 rounded-full bg-violet-500/30 blur-3xl" />
 
               <img
-                src="https://i.pinimg.com/1200x/a1/31/2a/a1312a9144064961826695b686cbaa95.jpg"
+                src="https://i.pinimg.com/1200x/c6/41/89/c64189bc765cb36972be4ca69819aa78.jpg"
                 alt="avatar"
                 className="relative h-44 w-44 rounded-full border border-white/10 bg-black/40 p-2 shadow-2xl object-cover"
               />
@@ -44,9 +44,7 @@ export function Hero() {
             transition={{ delay: 0.35 }}
             className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-(--muted)"
           >
-            Final year Computer Science student passionate about
-            AI, Automation, Full Stack Development, Machine Learning,
-            Cybersecurity and building modern digital experiences.
+            ECE Graduate | App and Software Developer |  AI Systems • Infrastructure • Automation | Building Intelligent Systems & Automation Projects
           </motion.p>
 
           <motion.div
