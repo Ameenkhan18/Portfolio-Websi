@@ -43,7 +43,7 @@ export const projects: Project[] = [
       "from-violet-500/30 via-fuchsia-500/20 to-black",
 
     screenshots: [
-      "/projects/voting-system.png",
+      "https://i.pinimg.com/1200x/48/f5/4e/48f54efd4f42259a382551eb4353d0fc.jpg",
     ],
   },
 
@@ -75,7 +75,7 @@ export const projects: Project[] = [
       "from-cyan-500/30 via-blue-500/20 to-black",
 
     screenshots: [
-      "/public/projects/ECG.png",
+      "https://i.pinimg.com/1200x/3a/61/fb/3a61fb3c32ea4667641bdb218df0e3a1.jpg",
     ],
   },
 
@@ -107,8 +107,8 @@ export const projects: Project[] = [
       "from-emerald-500/30 via-teal-500/20 to-black",
 
     screenshots: [
-      "/public/projects/permission-main.png",
-      "/projects/permission-2.png",
+      "https://i.pinimg.com/736x/74/8a/14/748a14384a92263c7135a7398c76fc25.jpg",
+      "https://i.pinimg.com/1200x/f1/ac/84/f1ac84056426e23988f00604ebee89ce.jpg",
       "/projects/permission-3.png",
     ],
   },
@@ -141,7 +141,7 @@ export const projects: Project[] = [
       "from-pink-500/30 via-rose-500/20 to-black",
 
     screenshots: [
-      "/public/projects/movie-system.png",
+      "https://i.pinimg.com/236x/d4/6b/42/d46b4289ff825958755372a7e57b993c.jpg",
     ],
   },
 ];
