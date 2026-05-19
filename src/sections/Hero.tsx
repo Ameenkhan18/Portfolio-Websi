@@ -19,7 +19,7 @@ export function Hero() {
               <div className="absolute inset-0 rounded-full bg-violet-500/30 blur-3xl" />
 
               <img
-                src="https://i.pinimg.com/736x/78/16/7e/78167ee10164680ed46b8baac562e428.jpg"
+                src="https://i.pinimg.com/1200x/04/58/9c/04589c822b20eb7941e20e8ea073bfd9.jpg"
                 alt="avatar"
                 className="relative h-44 w-44 rounded-full border border-white/10 bg-black/40 p-2 shadow-2xl object-cover"
               />
